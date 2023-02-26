@@ -6,12 +6,14 @@ This project was used to teach about semantic tags, the hierarchy of heading tex
 
 ## Usage
 
+Look at **feature/html-css branch**
 This is a standard home page with header, sections, and footer. Click the nav links to navigate throughout the page.
+
+Use link:
+https://jmaduafo.github.io/Horiseon-Module-1/Develop/
 
 ## Credits
 
 The challenge was created by Xandromus.
 https://github.com/coding-boot-camp/urban-octo-telegram 
-
-
 
