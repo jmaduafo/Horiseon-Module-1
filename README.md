@@ -11,10 +11,10 @@ Look at **feature/html-css branch**
 This is a standard home page with header, sections, and footer. Click the nav links to navigate throughout the page.
 
 For example, by clicking "Search Engine Optimization"
-![alt text] (assets/images/horiseon-module1-screenshot-1.png)
+![Alt text] (assets/images/horiseon-module1-screenshot-1.png)
 
 you get navigated to the "Search Engine Optimization" section
-![alt text] (assets/images/horiseon-module1-screenshot-2.png)
+![Alt text] (assets/images/horiseon-module1-screenshot-2.png)
 
 Use link:
 https://jmaduafo.github.io/Horiseon-Module-1/Develop/
